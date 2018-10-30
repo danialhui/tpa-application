@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "TpaApplication",
+    "packageName": "com.hui.tpa",
+    "packageFolder": "com/hui/tpa",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "gradle",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "id",
+      "zh-cn",
+      "en",
+      "th",
+      "vi"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.5.0",
+    "jwtSecretKey": "YTA4ODM5ODgwMWY1YzVkNzQ5NTlkNDYwMzQzNmI0ZTlhODc2NzZmYjI1ZGFjY2RhZWM5MGNlODg2N2Y2MjIxYjRjNmRjMDU4YWM5Y2IwYjZiOWE2NTc3ZDM4OGIyYWU5NzIyMzkzMzNmZDhkNDIzMGFiYzk3ZTQ2MTMzMzY4ODg="
+  },
+  "git-provider": "GitHub",
+  "git-company": "danialhui",
+  "repository-name": "tpa-application"
+}
